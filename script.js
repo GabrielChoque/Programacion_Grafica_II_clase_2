@@ -23,7 +23,7 @@ function animacion() {
 }
 
 animacion();
-
+//saifhdgsdkjhfsdjklhfgsdljkhfgsd
 // Ajustar el tamaño de la ventana al cambiar su tamaño
 window.addEventListener('resize', () => {
     camara.aspect = window.innerWidth / window.innerHeight;
